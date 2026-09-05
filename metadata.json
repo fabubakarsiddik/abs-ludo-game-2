@@ -1,0 +1,6 @@
+{
+  "name": "ABS Ludo",
+  "description": "Modern, feature-rich mobile Ludo game (ABS Ludo) with Multiplayer, Smart AI, custom boards, engaging audio, and monetization ad integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
